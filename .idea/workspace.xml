@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/a/LinearProbingHashing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/huisu/F6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/huisu/G7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/huisu/I8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/avarice/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/avarice/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/avarice/C3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/avarice/D4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/huisu/K10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/huisu/E5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/huisu/E5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liao/huisu/J9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/huisu/J9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +61,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinearProbingHashing">
-    <configuration name="E5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.huisu.E5" />
+  <component name="RunManager" selected="Application.D4">
+    <configuration name="A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.avarice.A1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.huisu.*" />
+          <option name="PATTERN" value="com.liao.avarice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.huisu.F6" />
+    <configuration name="B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.avarice.B2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.huisu.*" />
+          <option name="PATTERN" value="com.liao.avarice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.huisu.G7" />
+    <configuration name="C3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.avarice.C3" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.huisu.*" />
+          <option name="PATTERN" value="com.liao.avarice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.huisu.I8" />
+    <configuration name="D4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.avarice.D4" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.huisu.*" />
+          <option name="PATTERN" value="com.liao.avarice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearProbingHashing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a.LinearProbingHashing" />
+    <configuration name="K10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.huisu.K10" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="a.*" />
+          <option name="PATTERN" value="com.liao.huisu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinearProbingHashing" />
-        <item itemvalue="Application.I8" />
-        <item itemvalue="Application.G7" />
-        <item itemvalue="Application.F6" />
-        <item itemvalue="Application.E5" />
+        <item itemvalue="Application.D4" />
+        <item itemvalue="Application.C3" />
+        <item itemvalue="Application.B2" />
+        <item itemvalue="Application.A1" />
+        <item itemvalue="Application.K10" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +161,8 @@
       <workItem from="1688710647321" duration="12083000" />
       <workItem from="1688784014152" duration="2632000" />
       <workItem from="1688791990863" duration="17000" />
+      <workItem from="1688802838284" duration="3321000" />
+      <workItem from="1688871652021" duration="8518000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -189,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688717070117</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="二叉树">
+      <created>1688802873583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688802873583</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +321,26 @@
           <url>file://$PROJECT_DIR$/src/com/liao/huisu/G7.java</url>
           <line>33</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/huisu/J9.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/huisu/K10.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/avarice/C3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/avarice/D4.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
