@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/FindMaxForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/FindTargetSumWays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/LastStoneWeightII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/CombinationSum4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/NumSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/WordBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/dp/canPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/dp/canPartition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +63,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMaxForm">
-    <configuration name="FindMaxForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.FindMaxForm" />
+  <component name="RunManager" selected="Application.WordBreak">
+    <configuration name="Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.Change" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTargetSumWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.FindTargetSumWays" />
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.CoinChange" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastStoneWeightII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.LastStoneWeightII" />
+    <configuration name="CombinationSum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.CombinationSum4" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="canPartition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.canPartition" />
+    <configuration name="NumSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.NumSquares" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="integerBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.integerBreak" />
+    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.WordBreak" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindMaxForm" />
-        <item itemvalue="Application.FindTargetSumWays" />
-        <item itemvalue="Application.LastStoneWeightII" />
-        <item itemvalue="Application.canPartition" />
-        <item itemvalue="Application.integerBreak" />
+        <item itemvalue="Application.WordBreak" />
+        <item itemvalue="Application.NumSquares" />
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.CombinationSum4" />
+        <item itemvalue="Application.Change" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,9 @@
       <workItem from="1689075846069" duration="402000" />
       <workItem from="1689129249880" duration="5264000" />
       <workItem from="1689160858010" duration="699000" />
-      <workItem from="1689233312346" duration="6505000" />
+      <workItem from="1689233312346" duration="6638000" />
+      <workItem from="1689255341749" duration="21000" />
+      <workItem from="1689298484778" duration="8027000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -236,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689233389990</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="二叉树">
+      <created>1689253785205</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689253785205</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,6 +449,21 @@
           <url>file://$PROJECT_DIR$/src/com/liao/dp/FindMaxForm.java</url>
           <line>43</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/dp/Change.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/dp/NumSquares.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/dp/WordBreak.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
