@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxProfit2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxProfit3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxProfit4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxProfitWithFee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxProfitWithFreeze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/Rob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/Rob2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/Rob3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/FindLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/FindLengthOfLCIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/LengthOfLIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxUncrossedLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/NumDistinct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3d86bd6b-b006-442e-b960-9cd29babd768" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d86bd6b-b006-442e-b960-9cd29babd768" />
+        <option name="url" value="https://github.com/cookerXIN/leecode.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,9 +79,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxProfitWithFee">
-    <configuration name="MaxProfit2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxProfit2" />
+  <component name="RunManager" selected="Application.NumDistinct">
+    <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.IsSubsequence" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxProfit3" />
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.LongestCommonSubsequence" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfit4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxProfit4" />
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxSubArray" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfitWithFee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxProfitWithFee" />
+    <configuration name="MaxUncrossedLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxUncrossedLines" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxProfitWithFreeze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.MaxProfitWithFreeze" />
+    <configuration name="NumDistinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.dp.NumDistinct" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxProfitWithFee" />
-        <item itemvalue="Application.MaxProfitWithFreeze" />
-        <item itemvalue="Application.MaxProfit4" />
-        <item itemvalue="Application.MaxProfit3" />
-        <item itemvalue="Application.MaxProfit2" />
+        <item itemvalue="Application.NumDistinct" />
+        <item itemvalue="Application.IsSubsequence" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.MaxUncrossedLines" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +191,8 @@
       <workItem from="1689233312346" duration="6638000" />
       <workItem from="1689255341749" duration="21000" />
       <workItem from="1689298484778" duration="8888000" />
-      <workItem from="1689383444964" duration="10043000" />
+      <workItem from="1689383444964" duration="10456000" />
+      <workItem from="1689469515226" duration="7950000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -258,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689315009224</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="二叉树">
+      <created>1689406297773</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689406297773</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,6 +506,21 @@
           <url>file://$PROJECT_DIR$/src/com/liao/dp/MaxProfit.java</url>
           <line>22</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/dp/LengthOfLIS.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/dp/LongestCommonSubsequence.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/dp/IsSubsequence.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
