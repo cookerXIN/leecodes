@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/FindLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/FindLengthOfLCIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/IsSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/LengthOfLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/MaxUncrossedLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/dp/NumDistinct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +182,7 @@
       <workItem from="1689255341749" duration="21000" />
       <workItem from="1689298484778" duration="8888000" />
       <workItem from="1689383444964" duration="10456000" />
-      <workItem from="1689469515226" duration="7950000" />
+      <workItem from="1689469515226" duration="8179000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -278,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689406297773</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="二叉树">
+      <created>1689491424495</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689491424495</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
