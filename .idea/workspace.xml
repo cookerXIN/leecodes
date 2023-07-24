@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/test/A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/test/B2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/test/C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/test/D4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/test/E5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/test/F6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/test/G7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/test/H8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,52 +71,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E5">
-    <configuration name="A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.test.A1" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.test.B2" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.H8">
     <configuration name="C3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liao.test.C3" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.liao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountSubstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.dp.CountSubstrings" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +98,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="F6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.test.F6" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.test.G7" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.test.H8" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.H8" />
+        <item itemvalue="Application.G7" />
+        <item itemvalue="Application.F6" />
         <item itemvalue="Application.E5" />
         <item itemvalue="Application.C3" />
-        <item itemvalue="Application.B2" />
-        <item itemvalue="Application.A1" />
-        <item itemvalue="Application.CountSubstrings" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +189,8 @@
       <workItem from="1689556746359" duration="4510000" />
       <workItem from="1689650339085" duration="133000" />
       <workItem from="1689931441922" duration="5158000" />
-      <workItem from="1690083557134" duration="7057000" />
+      <workItem from="1690083557134" duration="10037000" />
+      <workItem from="1690182706033" duration="9965000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -298,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689564892657</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="二叉树">
+      <created>1690118278803</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690118278803</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
