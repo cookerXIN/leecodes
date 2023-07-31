@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H543.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H560.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H79.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/test/L12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/test/L12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +74,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.H560">
-    <configuration name="H10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H10" />
+  <component name="RunManager" selected="Application.H128">
+    <configuration name="H114" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H114" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H543" />
+    <configuration name="H128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H128" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H560" />
+    <configuration name="H22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H22" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H64" />
+    <configuration name="H33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H33" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -128,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.test.L12" />
+    <configuration name="H48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H48" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.test.*" />
+          <option name="PATTERN" value="com.liao.hot100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.H560" />
-        <item itemvalue="Application.H543" />
-        <item itemvalue="Application.H64" />
-        <item itemvalue="Application.H10" />
-        <item itemvalue="Application.L12" />
+        <item itemvalue="Application.H128" />
+        <item itemvalue="Application.H114" />
+        <item itemvalue="Application.H33" />
+        <item itemvalue="Application.H22" />
+        <item itemvalue="Application.H48" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +197,9 @@
       <workItem from="1690271834311" duration="6564000" />
       <workItem from="1690461920224" duration="1213000" />
       <workItem from="1690525402328" duration="6082000" />
-      <workItem from="1690606128679" duration="10178000" />
+      <workItem from="1690606128679" duration="10785000" />
+      <workItem from="1690685281909" duration="8437000" />
+      <workItem from="1690769540793" duration="9594000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -326,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690529215694</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="二叉树">
+      <created>1690630966645</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690630966645</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,6 +602,16 @@
           <url>file://$PROJECT_DIR$/src/com/liao/test/L12.java</url>
           <line>20</line>
           <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H48.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H128.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
