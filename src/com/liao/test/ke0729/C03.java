@@ -24,7 +24,7 @@ public class C03 {
 
         for (int i : arr) {
             if (set.contains(i)) {
-                // 如果是等与s的一半 则影响只有1 负责为2
+                // 如果是等与s的一半 则影响只有1 否则为2
                 if (s - i == i) {
                     count -= 1;
                 } else {
