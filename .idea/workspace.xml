@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H448.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H695.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H827.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/MaxAlternatingSequenceLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/test/M13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liao/hot100/H22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/hot100/H22.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/study/work/leecode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/study/work/work/项目上线/聚合搜索平台/autocomplete-es-master&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -76,9 +75,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.H827">
-    <configuration name="H169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H169" />
+  <component name="RunManager" selected="Application.H85">
+    <configuration name="Dish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.Dish" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H200" />
+    <configuration name="H394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H394" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H448" />
+    <configuration name="H85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H85" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H695" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H695" />
+    <configuration name="MaxAlternatingSequenceLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.MaxAlternatingSequenceLength" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H827" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H827" />
+    <configuration name="PingPongGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.PingPongGame" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.H827" />
-        <item itemvalue="Application.H695" />
-        <item itemvalue="Application.H200" />
-        <item itemvalue="Application.H169" />
-        <item itemvalue="Application.H448" />
+        <item itemvalue="Application.H85" />
+        <item itemvalue="Application.MaxAlternatingSequenceLength" />
+        <item itemvalue="Application.PingPongGame" />
+        <item itemvalue="Application.Dish" />
+        <item itemvalue="Application.H394" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +206,11 @@
       <workItem from="1690889354887" duration="2379000" />
       <workItem from="1690941495041" duration="8136000" />
       <workItem from="1691030060349" duration="8283000" />
-      <workItem from="1691133589438" duration="7892000" />
+      <workItem from="1691133589438" duration="9455000" />
+      <workItem from="1691154154289" duration="265000" />
+      <workItem from="1691218438444" duration="225000" />
+      <workItem from="1691219648057" duration="14397000" />
+      <workItem from="1691244623468" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -377,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690977759306</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="二叉树">
+      <created>1691149766066</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1691149766066</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -715,6 +725,26 @@
           <url>file://$PROJECT_DIR$/src/com/liao/hot100/H827.java</url>
           <line>50</line>
           <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H338.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H394.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H85.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H85.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="157" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
