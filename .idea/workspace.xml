@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H461.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H155.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H437.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H621.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +72,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.H461">
-    <configuration name="H146 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H146" />
+  <component name="RunManager" selected="Application.H621">
+    <configuration name="H155 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H146" />
+    <configuration name="H155 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H461" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H461" />
+    <configuration name="H155 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H85" />
+    <configuration name="H155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAlternatingSequenceLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.MaxAlternatingSequenceLength" />
+    <configuration name="H621" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H621" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.H461" />
-        <item itemvalue="Application.H146 (1)" />
-        <item itemvalue="Application.H146" />
-        <item itemvalue="Application.H85" />
-        <item itemvalue="Application.MaxAlternatingSequenceLength" />
+        <item itemvalue="Application.H621" />
+        <item itemvalue="Application.H155" />
+        <item itemvalue="Application.H155 (5)" />
+        <item itemvalue="Application.H155 (4)" />
+        <item itemvalue="Application.H155 (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,10 @@
       <workItem from="1691218438444" duration="225000" />
       <workItem from="1691219648057" duration="14397000" />
       <workItem from="1691244623468" duration="7000" />
-      <workItem from="1691301947953" duration="4550000" />
+      <workItem from="1691301947953" duration="4895000" />
+      <workItem from="1691405371818" duration="1230000" />
+      <workItem from="1691411931831" duration="89000" />
+      <workItem from="1691546361516" duration="10078000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -391,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691301997475</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="二叉树">
+      <created>1691307190194</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1691307190194</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,6 +760,11 @@
           <url>file://$PROJECT_DIR$/src/com/liao/hot100/H85.java</url>
           <line>72</line>
           <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H621.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="161" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
