@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H437.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H621.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liao/hot100/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/hot100/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +76,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.H621">
-    <configuration name="H155 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
+  <component name="RunManager" selected="Application.L20">
+    <configuration name="H399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H399" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H155 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
+    <configuration name="L11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L11" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.hot100.*" />
+          <option name="PATTERN" value="com.liao.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H155 (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
+    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.hot100.*" />
+          <option name="PATTERN" value="com.liao.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H155" />
+    <configuration name="L20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L20" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.hot100.*" />
+          <option name="PATTERN" value="com.liao.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="H621" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H621" />
+    <configuration name="L5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L5" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.hot100.*" />
+          <option name="PATTERN" value="com.liao.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.H621" />
-        <item itemvalue="Application.H155" />
-        <item itemvalue="Application.H155 (5)" />
-        <item itemvalue="Application.H155 (4)" />
-        <item itemvalue="Application.H155 (3)" />
+        <item itemvalue="Application.L20" />
+        <item itemvalue="Application.L11" />
+        <item itemvalue="Application.L5" />
+        <item itemvalue="Application.L2" />
+        <item itemvalue="Application.H399" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +215,10 @@
       <workItem from="1691301947953" duration="4895000" />
       <workItem from="1691405371818" duration="1230000" />
       <workItem from="1691411931831" duration="89000" />
-      <workItem from="1691546361516" duration="10078000" />
+      <workItem from="1691546361516" duration="10173000" />
+      <workItem from="1691647643593" duration="5000" />
+      <workItem from="1691655451819" duration="4016000" />
+      <workItem from="1691716363684" duration="7308000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -402,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691307190194</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="二叉树">
+      <created>1691566263516</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1691566263516</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -766,6 +780,31 @@
           <line>53</line>
           <option name="timeStamp" value="161" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H399.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/hot100/H399.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L2.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L5.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L5.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -773,6 +812,7 @@
         <PinnedItemInfo parentTag="com.liao.binaryTree.TreeNode" memberName="val" />
         <PinnedItemInfo parentTag="com.liao.test.K11$Link" memberName="next" />
         <PinnedItemInfo parentTag="com.liao.binaryTree.TreeNode" memberName="left" />
+        <PinnedItemInfo parentTag="com.liao.hot100.ListNode" memberName="next" />
       </pinned-members>
     </pin-to-top-manager>
   </component>
