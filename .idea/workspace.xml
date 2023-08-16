@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/H399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/hot100/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/dajiang0813/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/dajiang0813/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/jingdong0812/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/jingdong0812/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/jingdong0812/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L62.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/hot100/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/hot100/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,22 +84,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.L20">
-    <configuration name="H399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.hot100.H399" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.hot100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L11" />
+  <component name="RunManager" selected="Application.L62">
+    <configuration name="L15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L15" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L2" />
+    <configuration name="L19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L19" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L20" />
+    <configuration name="L22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L22" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +124,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L5" />
+    <configuration name="L49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L49" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.redo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L62" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L20" />
-        <item itemvalue="Application.L11" />
-        <item itemvalue="Application.L5" />
-        <item itemvalue="Application.L2" />
-        <item itemvalue="Application.H399" />
+        <item itemvalue="Application.L62" />
+        <item itemvalue="Application.L49" />
+        <item itemvalue="Application.L22" />
+        <item itemvalue="Application.L19" />
+        <item itemvalue="Application.L15" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +226,13 @@
       <workItem from="1691546361516" duration="10173000" />
       <workItem from="1691647643593" duration="5000" />
       <workItem from="1691655451819" duration="4016000" />
-      <workItem from="1691716363684" duration="7308000" />
+      <workItem from="1691716363684" duration="7374000" />
+      <workItem from="1691846393580" duration="1680000" />
+      <workItem from="1691977535162" duration="13806000" />
+      <workItem from="1692019811330" duration="638000" />
+      <workItem from="1692065265691" duration="7923000" />
+      <workItem from="1692082224533" duration="6000" />
+      <workItem from="1692154252538" duration="7246000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -416,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691566263516</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="二叉树">
+      <created>1691727137864</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1691727137865</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -804,6 +825,36 @@
           <url>file://$PROJECT_DIR$/src/com/liao/redo/L5.java</url>
           <line>40</line>
           <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test4.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/meituan0812/Test4.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L15.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L19.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L49.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="195" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
