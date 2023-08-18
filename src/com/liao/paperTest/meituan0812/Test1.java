@@ -19,7 +19,6 @@ public class Test1 {
     //输出描述
     //如果x和y在排列中相邻，则输出"Yes"。否则输出"No"。
 
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

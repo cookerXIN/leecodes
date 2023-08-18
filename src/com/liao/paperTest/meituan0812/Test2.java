@@ -15,6 +15,8 @@ public class Test2 {
     //第三行输入两个正整数x和y，代表小美的出发地和目的地。
     //输出描述
     //一个正整数，代表小美走的最短距离。
+    //
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
