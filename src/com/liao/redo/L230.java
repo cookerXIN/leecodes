@@ -23,8 +23,6 @@ public class L230 {
             return;
         }
 
-
-
         dfs(root.left, k);
         idx++;
         if (idx == k) {
