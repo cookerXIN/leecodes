@@ -5,15 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L1020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L200_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L417.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L695.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L797.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/test/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L49_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/test/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/test/ke0729/b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liao/redo/L139_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/redo/L139_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liao/redo/L6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/redo/L6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +79,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.L130">
-    <configuration name="L1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L1020" />
+  <component name="RunManager" selected="Application.L6">
+    <configuration name="L49_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L49_2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L130" />
+    <configuration name="L6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L6" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -104,28 +106,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.test.Test10" />
+    <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M2" />
       <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.elema0817.Test3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.paperTest.elema0817.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L130" />
-        <item itemvalue="Application.L1020" />
+        <item itemvalue="Application.L6" />
+        <item itemvalue="Application.L49_2" />
         <item itemvalue="Application.a" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.M2" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +235,10 @@
       <workItem from="1693636642600" duration="13430000" />
       <workItem from="1693704120939" duration="13265000" />
       <workItem from="1693809190061" duration="13111000" />
-      <workItem from="1693883986985" duration="8616000" />
+      <workItem from="1693883986985" duration="17823000" />
+      <workItem from="1693968698136" duration="12185000" />
+      <workItem from="1694055202769" duration="12367000" />
+      <workItem from="1694156872928" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693809263449</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="二叉树">
+      <created>1693900585253</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1693900585253</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1098,16 +1098,6 @@
           <option name="timeStamp" value="275" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/liao/redo/L6.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="280" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/liao/redo/L6.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="281" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/liao/test/Test2.java</url>
           <line>15</line>
           <option name="timeStamp" value="282" />
@@ -1186,6 +1176,16 @@
           <url>file://$PROJECT_DIR$/src/com/liao/redo/L797.java</url>
           <line>37</line>
           <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/M2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L6.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="331" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
