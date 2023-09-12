@@ -1,4 +1,4 @@
-package com.liao.paperTest.huawei0524;
+package com.liao.paperTest.huawei.huawei0524;
 
 import java.util.*;
 

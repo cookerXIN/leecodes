@@ -1,4 +1,4 @@
-package com.liao.paperTest.zijie0512;
+package com.liao.paperTest.zijie.zijie0512;
 
 /**
  * @author liaoguixin

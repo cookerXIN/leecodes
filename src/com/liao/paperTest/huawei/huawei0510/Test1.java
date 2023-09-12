@@ -1,7 +1,6 @@
-package com.liao.paperTest.huawei0510;
+package com.liao.paperTest.huawei.huawei0510;
 
 import java.util.*;
-import java.util.stream.Stream;
 
 /**
  * @author liaoguixin
