@@ -4,7 +4,7 @@ package com.liao.sort.newSort;
  * @author liaoguixin
  * @date 2023/9/19
  */
-public class insertSort {
+public class InsertSort {
     public static void main(String[] args) {
 
     }
