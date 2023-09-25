@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L301.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L31_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/sort/newSort/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/sort/newSort/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h0920/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L238_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L240.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L560.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L85.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/sort/newSort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/sort/newSort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/liao/paperTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/paperTest/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,20 +77,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.L301">
-    <configuration name="L283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L283" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.redo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.liao.paperTest.Test1">
     <configuration name="L301" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liao.redo.L301" />
       <module name="untitled" />
@@ -104,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.test.PrintTest" />
+    <configuration name="L85" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L85" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.test.*" />
+          <option name="PATTERN" value="com.liao.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.sort.newSort.RadixSort" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.sort.newSort.*" />
+          <option name="PATTERN" value="com.liao.paperTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +117,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.test.Test" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h0920.Test1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.test.*" />
+          <option name="PATTERN" value="com.liao.paperTest.huawei.h0920.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.liao.paperTest.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.Test1" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.paperTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.liao.paperTest.Test1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.L85" />
         <item itemvalue="Application.L301" />
-        <item itemvalue="Application.L283" />
-        <item itemvalue="Application.RadixSort" />
-        <item itemvalue="Application.PrintTest" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +267,10 @@
       <workItem from="1695087854253" duration="17511000" />
       <workItem from="1695172555996" duration="17836000" />
       <workItem from="1695278189657" duration="10319000" />
+      <workItem from="1695363973910" duration="11874000" />
+      <workItem from="1695455172686" duration="3263000" />
+      <workItem from="1695534983447" duration="4720000" />
+      <workItem from="1695607200317" duration="1376000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -569,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695207277726</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="二叉树">
+      <created>1695364014840</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1695364014840</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1337,16 +1348,6 @@
           <url>file://$PROJECT_DIR$/src/com/liao/redo/L67.java</url>
           <line>17</line>
           <option name="timeStamp" value="397" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/Main.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="399" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/Main.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="400" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/liao/redo/L179.java</url>
