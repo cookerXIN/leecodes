@@ -6,7 +6,11 @@ package com.liao.sort.newSort;
  */
 public class InsertSort {
     public static void main(String[] args) {
-
+        int[] nums = {30,70,90,60,50,10,20,40,100,80};
+        insertSort(nums, nums.length);
+        for (int num : nums) {
+            System.out.print(num + " ");
+        }
     }
 
     /*
