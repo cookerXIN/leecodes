@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L11_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L15_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L31_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h0923/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h0923/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +271,8 @@
       <workItem from="1695892625065" duration="2969000" />
       <workItem from="1696038495334" duration="1055000" />
       <workItem from="1696319063616" duration="4242000" />
-      <workItem from="1696384193203" duration="16891000" />
+      <workItem from="1696384193203" duration="17148000" />
+      <workItem from="1696475157778" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -605,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696407152692</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="二叉树">
+      <created>1696426950341</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1696426950341</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1438,6 +1443,11 @@
           <url>file://$PROJECT_DIR$/src/com/liao/redo/L4.java</url>
           <line>27</line>
           <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/redo/L17.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="432" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

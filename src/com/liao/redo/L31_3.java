@@ -4,16 +4,17 @@ import java.util.Arrays;
 
 /**
  * @author liaoguixin
- * @date 2023/9/21
+ * @date 2023/10/5
  */
-public class L31_2 {
+public class L31_3 {
     public static void main(String[] args) {
 
     }
 
     public void nextPermutation(int[] nums) {
         int len = nums.length;
-        for (int i = len - 1; i > 0; i--) {
+
+        for (int i = len-1; i >= 0; i--) {
             if (nums[i] > nums[i-1]) {
                 Arrays.sort(nums, i, len);
                 for (int j = i; j < len; j++) {
