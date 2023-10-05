@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L31_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L33_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L34_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L39_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L49_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +78,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.L17">
+  <component name="RunManager" selected="Application.L48">
     <configuration name="L17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liao.redo.L17" />
       <module name="untitled" />
@@ -99,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L4" />
+    <configuration name="L48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L48" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L48" />
         <item itemvalue="Application.L17" />
         <item itemvalue="Application.L2" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.L5_2" />
-        <item itemvalue="Application.L4" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +278,7 @@
       <workItem from="1696038495334" duration="1055000" />
       <workItem from="1696319063616" duration="4242000" />
       <workItem from="1696384193203" duration="17148000" />
-      <workItem from="1696475157778" duration="1043000" />
+      <workItem from="1696475157778" duration="11165000" />
     </task>
     <task id="LOCAL-00001" summary="二叉树">
       <created>1687491587752</created>
@@ -610,7 +616,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696426950341</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="二叉树">
+      <created>1696476461168</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1696476461168</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
