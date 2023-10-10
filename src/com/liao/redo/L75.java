@@ -19,7 +19,6 @@ public class L75 {
                 tmp = nums[i];
                 nums[i] = nums[pos0];
                 nums[pos0] = tmp;
-
                 if (pos0 < pos1) {
                     tmp = nums[i];
                     nums[i] = nums[pos1];
