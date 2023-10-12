@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/graph/TopologicalSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L76_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1011/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1011/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1011/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/redo/L75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/liao/redo/L75.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,20 +74,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.L215">
-    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.graph.Dijkstra" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="L215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.liao.redo.L215" />
       <module name="untitled" />
@@ -115,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.dajiang0813.Test2" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h1011.Test1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.paperTest.dajiang0813.*" />
+          <option name="PATTERN" value="com.liao.paperTest.huawei.h1011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h1011.Test2" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.paperTest.huawei.h1011.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.L215" />
         <item itemvalue="Application.TopologicalSort" />
         <item itemvalue="Application.L56_2" />
-        <item itemvalue="Application.Dijkstra" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -277,14 +276,7 @@
       <workItem from="1696384193203" duration="17148000" />
       <workItem from="1696475157778" duration="14715000" />
       <workItem from="1696576193623" duration="26558000" />
-      <workItem from="1696852526056" duration="5180000" />
-    </task>
-    <task id="LOCAL-00003" summary="二叉树">
-      <created>1687866897440</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1687866897440</updated>
+      <workItem from="1696852526056" duration="13667000" />
     </task>
     <task id="LOCAL-00004" summary="二叉树">
       <created>1688717070117</created>
@@ -622,7 +614,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696683266198</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="二叉树">
+      <created>1696936882475</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1696936882475</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1470,6 +1469,11 @@
           <url>file://$PROJECT_DIR$/src/com/liao/redo/L215.java</url>
           <line>26</line>
           <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1011/Test1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="444" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
