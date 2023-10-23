@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34ec1b20-62fd-490d-8170-773d8db4660a" name="Changes" comment="二叉树">
-      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/MaxSubsequenceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L78_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L79_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1018/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1018/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L85_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/liao/redo/L98_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/liao/paperTest/Test1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "shared-indexes",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -80,22 +81,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MaxSubsequenceSum">
-    <configuration name="L215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L215" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.liao.redo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L78_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L78_2" />
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="L98_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.redo.L98_2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h1011.Test1" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h1018.Test2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.paperTest.huawei.h1011.*" />
+          <option name="PATTERN" value="com.liao.paperTest.huawei.h1018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +121,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h1011.Test2" />
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.a" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.liao.paperTest.huawei.h1011.*" />
+          <option name="PATTERN" value="com.liao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.liao.paperTest.huawei.h1018.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liao.paperTest.huawei.h1018.Test1" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liao.paperTest.huawei.h1018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxSubsequenceSum" />
-        <item itemvalue="Application.L78_2" />
-        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.L215" />
+        <item itemvalue="Application.com.liao.paperTest.huawei.h1018.Test1" />
+        <item itemvalue="Application.a" />
+        <item itemvalue="Application.L98_2" />
+        <item itemvalue="Application.MaxSubsequenceSum" />
       </list>
     </recent_temporary>
   </component>
@@ -284,14 +285,7 @@
       <workItem from="1696576193623" duration="26558000" />
       <workItem from="1696852526056" duration="13667000" />
       <workItem from="1697100246023" duration="6243000" />
-      <workItem from="1697251055704" duration="3428000" />
-    </task>
-    <task id="LOCAL-00005" summary="二叉树">
-      <created>1688802873583</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1688802873583</updated>
+      <workItem from="1697251055704" duration="18362000" />
     </task>
     <task id="LOCAL-00006" summary="二叉树">
       <created>1688908252349</created>
@@ -629,7 +623,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697100269688</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="二叉树">
+      <created>1697420835407</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1697420835407</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1482,6 +1483,11 @@
           <url>file://$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1011/Test1.java</url>
           <line>39</line>
           <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/liao/paperTest/huawei/h1018/Test2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="445" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
